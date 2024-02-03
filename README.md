@@ -5,5 +5,7 @@ This project implements various geometric transformations in image processing to
 
 # Features
 Translation: Shift the entire image by a specified distance along the x and/or y axes.
+
 Rotation: Rotate the image by a chosen angle around a pivot point.
+
 Scaling: Enlarge or reduce the size of an image.
